@@ -105,7 +105,7 @@ h1 {
 .split.left::before,
 .split.right,
 .split.right::before {
-  transition: all 0.5s ease;
+  transition: all 1s ease;
 }
 
 .hover-left .left {
